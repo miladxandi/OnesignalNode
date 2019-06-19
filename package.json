@@ -1,0 +1,12 @@
+{
+  "name": "onesignal",
+  "version": "2.1.2",
+  "description": "A lightweight library for Onesignal REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Milad Xandi <info@miladzandi.ir>",
+  "license": "MIT"
+}
