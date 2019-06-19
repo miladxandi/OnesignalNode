@@ -8,7 +8,7 @@ console.log(Notification.sendNotification({"en": "Main Command","fa":"دستور
 
 /*
 Reponse:
-    id: '95def956-0753-4183-b551-8ff6c15e0bd4',
+    id: 'Example ID',
     recipients: 2,
     external_id: null
  */
