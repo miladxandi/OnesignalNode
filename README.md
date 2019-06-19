@@ -1,4 +1,4 @@
-# OnesignalNode
+# Onesignal Node
 An OOP-base Nodejs project for Onesignal
 
 Set your APP ID & REST KEY in `notifications.js` where `sendNotification()` method is defined.
